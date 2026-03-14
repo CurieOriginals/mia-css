@@ -124,7 +124,7 @@ div.mt-4 { background: transparent !important; background-color: transparent !im
         z-index: 0 !important; pointer-events: none !important
     }
     .ant-row.ant-row-center>.ant-col-lg-6:first-child::after {
-        content: '10 GREETINGS  ·  21 IMAGES' !important;
+        content: '10 GREETINGS  ·  22 IMAGES' !important;
         grid-column: 1 !important; grid-row: 2 !important;
         align-self: end !important; justify-self: center !important; z-index: 1 !important;
         font-family: var(--co-font-body) !important; font-size: 0.78em !important;
